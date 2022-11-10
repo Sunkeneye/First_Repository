@@ -1,5 +1,16 @@
 # First_Repository
 
+## 요청사항
+
+- 지금 git 명령어가 정확히 무슨 역할을 하는지 확인할 필요가 있음
+- 아래는 예시
+
+```shell
+git branch -M main # main branch 생성
+```
+
+## 에러 발생
+
 - Repo를 생성하면서 Nest.js폴더와 React.js폴더를 연결하던 중에 문제가 발생
 - 원래는 First-Repository와 연결을 하려고 하였으나 아예 새로운 Repo를 만들어 연결하기 위해 Second_Repository를 생성하여 이 Repo와 연결하려고 GitHub의 공식 매뉴얼(...or push an existing repository from the command line)대로 하였으나
 
