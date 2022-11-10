@@ -4,7 +4,7 @@
 # 원래는 First-Repository와 연결을 하려고 하였으나 아예 새로운 Repo를 만들어 연결하기 위해 Second_Repository를 생성하여
 # 이 Repo와 연결하려고 GitHub의 공식 매뉴얼(...or push an existing repository from the command line)대로 하였으나
 
-git remote add origin https://github.com/Sunkeneye/Second_Repository.git
+git remote add origin https://github.com/Sunkeneye/Second_Repository.git\n
 git branch -M main
 git push -u origin main
 # 을  Git Bash에 입력하였으나
